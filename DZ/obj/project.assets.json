@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Тамерлан\\Desktop\\Geekbrains\\Выбор спеуиализации\\Final exam\\Final exam.csproj",
+      "projectUniqueName": "C:\\Users\\Тамерлан\\Desktop\\Geekbrains\\Выбор спеуиализации\\Final exam\\DZ\\Final exam.csproj",
       "projectName": "Final exam",
-      "projectPath": "C:\\Users\\Тамерлан\\Desktop\\Geekbrains\\Выбор спеуиализации\\Final exam\\Final exam.csproj",
+      "projectPath": "C:\\Users\\Тамерлан\\Desktop\\Geekbrains\\Выбор спеуиализации\\Final exam\\DZ\\Final exam.csproj",
       "packagesPath": "C:\\Users\\Тамерлан\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Тамерлан\\Desktop\\Geekbrains\\Выбор спеуиализации\\Final exam\\obj\\",
+      "outputPath": "C:\\Users\\Тамерлан\\Desktop\\Geekbrains\\Выбор спеуиализации\\Final exam\\DZ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Тамерлан\\AppData\\Roaming\\NuGet\\NuGet.Config"
